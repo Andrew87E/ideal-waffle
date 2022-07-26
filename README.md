@@ -5,6 +5,9 @@
 
 ## Description
 A simple note taking app
+
+![Gif Demo](./Assets/ideal-waffle.gif)
+
 ## Table of contents
 - [Description](#description)
 - [Installation](#installation)
@@ -15,11 +18,16 @@ A simple note taking app
 - [Questions](#questions)
 ## Installation
 This application needs node and npm to function. To use this aplication dowload the code and open in VS Code. From your command line use ```npm i``` to install dependancies, then use ```npm start``` to run the application!
+
 ## Usage
 This application can be used to take some notes you want to keep private!
+
 ## Demo
-See it in action on [youtube.com link](youtube.com link)!
+
+[See this Video](https://drive.google.com/file/d/1xfIFlcYOGMD_QULfe0SgjnH71zp-Qq1i/view)
+
 ## Contributing
+
 <details> 
 <summary>Contributor Covenant</summary>
 
