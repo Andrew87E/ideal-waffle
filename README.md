@@ -23,7 +23,7 @@ This application needs node and npm to function. To use this aplication dowload 
 This application can be used to take some notes you want to keep private!
 
 ## Demo
-
+[Check it out here!](https://ideal-waffle.herokuapp.com/)
 [See this Video](https://drive.google.com/file/d/1xfIFlcYOGMD_QULfe0SgjnH71zp-Qq1i/view)
 
 ## Contributing
